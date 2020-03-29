@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlc_RCA:/%PLATFORM%/beverly.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <locked value="true"/>
+	    <disabled value="true"/>
+	    <persistent value="true"/>
+	    <overlay value="true"/>
+    </Item>
+	<Item>
+      <filename>dlc_RCA:/%PLATFORM%/cityhills.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <locked value="true"/>
+	    <disabled value="true"/>
+	    <persistent value="true"/>
+	    <overlay value="true"/>
+    </Item>
+	<Item>
+      <filename>dlc_RCA:/%PLATFORM%/downtown.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <locked value="true"/>
+	    <disabled value="true"/>
+	    <persistent value="true"/>
+	    <overlay value="true"/>
+    </Item>
+	<Item>
+      <filename>dlc_RCA:/%PLATFORM%/freeways.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <locked value="true"/>
+	    <disabled value="true"/>
+	    <persistent value="true"/>
+	    <overlay value="true"/>
+    </Item>
+	<Item>
+      <filename>dlc_RCA:/%PLATFORM%/hollywood.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <locked value="true"/>
+	    <disabled value="true"/>
+	    <persistent value="true"/>
+	    <overlay value="true"/>
+    </Item>
+	<Item>
+      <filename>dlc_RCA:/%PLATFORM%/indust.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <locked value="true"/>
+	    <disabled value="true"/>
+	    <persistent value="true"/>
+	    <overlay value="true"/>
+    </Item>
+	<Item>
+      <filename>dlc_RCA:/%PLATFORM%/metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <locked value="true"/>
+	    <disabled value="true"/>
+	    <persistent value="true"/>
+	    <overlay value="true"/>
+    </Item>
+	<Item>
+      <filename>dlc_RCA:/%PLATFORM%/metadata.rpf/props.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+	    <disabled value="true"/>
+	    <persistent value="true"/>
+	    <overlay value="false"/>
+			<contents>CONTENTS_PROPS</contents>
+    </Item>	
+	<Item>
+      <filename>dlc_RCA:/%PLATFORM%/props.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <locked value="true"/>
+	    <disabled value="true"/>
+	    <persistent value="true"/>
+	    <overlay value="true"/>
+    </Item>
+	<Item>
+      <filename>dlc_RCA:/%PLATFORM%/santamon.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <locked value="true"/>
+	    <disabled value="true"/>
+	    <persistent value="true"/>
+	    <overlay value="true"/>
+    </Item>
+    <Item>
+      <filename>dlc_RCA:/%PLATFORM%/scentral.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <locked value="true"/>
+	    <disabled value="true"/>
+	    <persistent value="true"/>
+	    <overlay value="true"/>
+    </Item>
+	<Item>
+      <filename>dlc_RCA:/%PLATFORM%/sunset.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <locked value="true"/>
+	    <disabled value="true"/>
+	    <persistent value="true"/>
+	    <overlay value="true"/>
+    </Item>
+	<Item>
+      <filename>dlc_RCA:/%PLATFORM%/venice.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <locked value="true"/>
+	    <disabled value="true"/>
+	    <persistent value="true"/>
+	    <overlay value="true"/>
+    </Item>
+  </dataFiles>
+  <contentChangeSets>
+	<Item>
+	  <changeSetName>RCA_AUTOGEN</changeSetName>
+	  <filesToDisable />
+	  <filesToEnable>
+		<Item>dlc_RCA:/%PLATFORM%/beverly.rpf</Item>
+		<Item>dlc_RCA:/%PLATFORM%/cityhills.rpf</Item>
+		<Item>dlc_RCA:/%PLATFORM%/downtown.rpf</Item>
+		<Item>dlc_RCA:/%PLATFORM%/freeways.rpf</Item>
+		<Item>dlc_RCA:/%PLATFORM%/hollywood.rpf</Item>
+		<Item>dlc_RCA:/%PLATFORM%/indust.rpf</Item>
+		<Item>dlc_RCA:/%PLATFORM%/metadata.rpf</Item>
+		<Item>dlc_RCA:/%PLATFORM%/metadata.rpf/props.ityp</Item>
+		<Item>dlc_RCA:/%PLATFORM%/props.rpf</Item>
+		<Item>dlc_RCA:/%PLATFORM%/santamon.rpf</Item>
+		<Item>dlc_RCA:/%PLATFORM%/scentral.rpf</Item>
+		<Item>dlc_RCA:/%PLATFORM%/sunset.rpf</Item>
+		<Item>dlc_RCA:/%PLATFORM%/venice.rpf</Item>
+	  </filesToEnable>
+	  <txdToLoad />
+	  <txdToUnload />
+	  <residentResources />
+	  <unregisterResources />
+	</Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_AVENT_VEH</lockHash>
+			<modelNameHash>avent</modelNameHash>
+			<cost value ="100"/>
+			<textLabel>AVENT</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+		<Item>
+			<lockHash>CU_F430_VEH</lockHash>
+			<modelNameHash>f430</modelNameHash>
+			<cost value ="100"/>
+			<textLabel>F430</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>	
+</ShopVehicleDataArray>
